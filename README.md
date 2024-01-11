@@ -15,7 +15,7 @@ Azure AI Service : <br>
 1. Azure AI Translator Service
 </h3>
 <h2>Problem Statement</h2>
-<p align="justify">In our ever more interconnected global landscape, the demand for smooth communication across language barriers is more crucial than ever. The challenge is to provide an easily navigable platform where users can effortlessly translate content while keeping a record of their interactions. The opportunity lies in crafting an efficient, scalable solution that meets language translation needs and enriches user experience by integrating up-to-date search data.</p>
+<p align="justify">In our ever more interconnected global landscape, the demand for smooth communication across language barriers is more crucial than ever. The challenge is to provide an easily navigable platform where users can effortlessly translate content while keeping a record of their interactions. The opportunity lies in crafting an efficient, scalable solution that meets language translation needs and enriches user experience by integrating the up-to-date search data.</p>
 <h2>Project Description</h2>
 <p align="justify">Embark on a transformative language journey with our groundbreaking project - "Seamless Communication Across Borders: The Ultimate Translator Experience." This innovative web application is engineered to redefine language translation, ensuring a flawless and intuitive experience for users communicating across diverse linguistic landscapes.</p><br>
 <b>Key Features :</b>
