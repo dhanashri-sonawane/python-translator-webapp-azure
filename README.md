@@ -47,19 +47,20 @@ Azure AI Service : <br>
 <h2>Screenshots</h2>
 <h3>Azure App Service</h3>
 <b>Description :</b><p align="justify">Azure App Service provides a scalable and reliable hosting environment for the Multilingual Translator Web App. It ensures seamless deployment and high availability, facilitating an optimal user experience.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-service.png" alt="azure-app-service"></img><br>
+<img src="https://github.com/dhanashri-sonawane/python-translator-webapp-azure/blob/main/screenshots/app-service.png" alt="azure-app-service"></img><br>
 <h3>Azure Databse for MySQL</h3>
 <b>Description :</b><p align="justify"> The project leverages Azure Database for MySQL to efficiently manage and store user interaction history in the database. This relational database service ensures data consistency and supports quick retrieval of information.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-db.png" alt="azure-mysql-db-service"></img><br>
+<img src="https://github.com/dhanashri-sonawane/python-translator-webapp-azure/blob/main/screenshots/app-db.png" alt="azure-mysql-db-service"></img><br>
 <h3>Azure AI Translator Service</h3>
 <b>Description :</b><p align="justify">Azure AI Translator Service is the engine behind the Multilingual Content Hub's language translation capabilities. It employs advanced natural language processing to deliver accurate and contextually relevant translations.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-ai.png" alt="azure-translator-ai-service"></img><br>
+<img src="https://github.com/dhanashri-sonawane/python-translator-webapp-azure/blob/main/screenshots/app-ai.png" alt="azure-translator-ai-service"></img><br>
 <h3>Working Live Project Display</h3>
 <b>Description :</b><p align="justify">Here I am attaching the final working website's screenshot for the reference.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/final-project.png" alt="final-project-demo"></img>
+<img src="https://github.com/dhanashri-sonawane/python-translator-webapp-azure/blob/main/screenshots/finalpro1.png" alt="final-project-demo"></img>
+<img src="https://github.com/dhanashri-sonawane/python-translator-webapp-azure/blob/main/screenshots/finalpro2.png" alt="final-project-demo"></img>
 
 <h3>Resource Visualizer</h3>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/flask-ai.jpg" alt="resource-display"></img>
+<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/resource.png" alt="resource-display"></img>
 
 <h2>Final Project Statement</h2>
 <p align="justify">
@@ -67,4 +68,4 @@ The Multilingual Translator Web App redefines language connectivity by using sea
 <p align="justify">
 <b>As we finish, the Multilingual Translator Web App isn't always just an utility; it's an ongoing exploration of endless communication possibilities. In this era of worldwide connectivity, this undertaking signifies a pivotal step toward a greater accessible and interconnected international.</b>
 </p> <br>
-</h2><b><a href="https://aiwebappazure.azurewebsites.net/">Multilingual Translation Web App using Azure AI Translation Service</b></a>
+</h2><b><a href="https://pythontranslatorai.azurewebsites.net/">Multilingual Translation Web App using Azure AI Translation Service</b></a>
