@@ -60,7 +60,7 @@ Azure AI Service : <br>
 <img src="https://github.com/dhanashri-sonawane/python-translator-webapp-azure/blob/main/screenshots/finalpro2.png" alt="final-project-demo"></img>
 
 <h3>Resource Visualizer</h3>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/resource.png" alt="resource-display"></img>
+<img src="https://github.com/dhanashri-sonawane/python-translator-webapp-azure/blob/main/screenshots/resource.png" alt="resource-display"></img>
 
 <h2>Final Project Statement</h2>
 <p align="justify">
