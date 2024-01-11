@@ -1,5 +1,5 @@
 <h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
-<h2>Project Title:</h2><b><a href="https://pythontranslatorai.azurewebsites.net/">Seamless Communication Across Borders: The Ultimate Translator Experience</b></a>
+<h2>Project Title:</h2><b><a href="https://pythontranslatorai.azurewebsites.net/">Multilingual Translation Web App using Azure AI Translation Service</b></a>
 <br>
 <h2>Project Details</h2>
 <b>Project Demo URL :</b> https://pythontranslatorai.azurewebsites.net/ <br>
@@ -68,4 +68,4 @@ The Multilingual Translator Web App redefines language connectivity by using sea
 <p align="justify">
 <b>As we finish, the Multilingual Translator Web App isn't always just an utility; it's an ongoing exploration of endless communication possibilities. In this era of worldwide connectivity, this undertaking signifies a pivotal step toward a greater accessible and interconnected international.</b>
 </p> <br>
-</h2><b><a href="https://pythontranslatorai.azurewebsites.net/">Multilingual Translation Web App using Azure AI Translation Service</b></a>
+</h2><b><a href="https://pythontranslatorai.azurewebsites.net/">Seamless Communication Across Borders: The Ultimate Translator ExperienceService</b></a>
