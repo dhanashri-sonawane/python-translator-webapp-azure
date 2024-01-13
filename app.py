@@ -26,6 +26,10 @@ def index():
 
     return render_template('index.html', myresult=myresult)
 
+@app.route('/health')
+def health_check():
+    return jsonify({"status": "healthy"}), 200
+
 @app.route('/', methods=['POST'])
 def index_post():
     # Read the values from the form
